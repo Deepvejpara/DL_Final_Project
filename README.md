@@ -16,6 +16,14 @@ This project demonstrates how different neural network architectures and pretrai
 - 🎬 **RNN/LSTM:** IMDB movie review sentiment classification
 - 🤗 **Hugging Face Transformers:** Sentiment analysis, tokenization, and Named Entity Recognition (NER)
 
+## 🎥 Project Walkthrough
+
+Explore the complete project walkthrough, including demonstrations and supporting files:
+
+👉 **[Watch the Project Walkthrough on Google Drive](https://drive.google.com/drive/folders/1EcFZiq5Iw0CWAw8toRnxyQ1Uj5xydkjR?usp=drive_link)**
+
+
+
 ## 📊 Project Results
 
 | Task | Model / Technique | Reported Result |
